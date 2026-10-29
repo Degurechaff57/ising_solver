@@ -1,0 +1,6 @@
+/build/
+/data/gset/
+/output/
+/tmp/
+__pycache__/
+*.pyc
